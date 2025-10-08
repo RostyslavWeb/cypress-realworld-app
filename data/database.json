@@ -18,12 +18,12 @@
     {
       "id": "GjWovtg2hr",
       "uuid": "1aaad272-626c-4251-a868-306cec137eca",
-      "firstName": "Kristian",
-      "lastName": "Bradtke",
+      "firstName": "Bella",
+      "lastName": "Lorem",
       "username": "Arvilla_Hegmann",
       "password": "$2a$10$nSaCsTPTtbbPTnFXBH0GZu0ExpNMud3d1IuKOC/6a9gwAHkdhppeu",
-      "email": "Skyla.Stamm@yahoo.com",
-      "phoneNumber": "410-786-2112",
+      "email": "bella@email.com",
+      "phoneNumber": "4903004040",
       "avatar": "https://avatars.dicebear.com/api/human/GjWovtg2hr.svg",
       "defaultPrivacyLevel": "private",
       "balance": 93026,
@@ -74,39 +74,6 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
-    },
-    {
-      "id": "3fejQQqZy",
-      "uuid": "31c0fd14-bd7d-431e-83b3-aba6a9f8e54a",
-      "firstName": "jjoe",
-      "lastName": "doe",
-      "username": "joedoe",
-      "password": "$2a$10$wdtHRRN5dBadReIhLCOCL.1GKojJJ8fWPJBkdQwvo7/1xIgykns1e",
-      "balance": 0,
-      "createdAt": "2025-10-06T00:48:15.758Z",
-      "modifiedAt": "2025-10-06T00:48:15.758Z"
-    },
-    {
-      "id": "G21Gv0cJ9",
-      "uuid": "485444bd-29cf-4fd1-b433-d24549f5d4c5",
-      "firstName": "joedoe",
-      "lastName": "joedeo",
-      "username": "joedoe",
-      "password": "$2a$10$Wj9wLuRz0keqHb7feY8JNetztTdtzBunHLyxWg0I17u2JNPUJSfuq",
-      "balance": 0,
-      "createdAt": "2025-10-06T00:54:31.107Z",
-      "modifiedAt": "2025-10-06T00:54:31.107Z"
-    },
-    {
-      "id": "ILTN0hiUL",
-      "uuid": "c74e529d-5dae-480f-9a7d-590fccaddf67",
-      "firstName": "John",
-      "lastName": "Doe",
-      "username": "johndoe1",
-      "password": "$2a$10$5Ol6G9zygkxb.CNmrhOo9eUHUwOZI606UYJUCQnNESdIaaKF6lkvm",
-      "balance": 0,
-      "createdAt": "2025-10-06T00:55:06.594Z",
-      "modifiedAt": "2025-10-06T00:55:06.594Z"
     }
   ],
   "contacts": [
