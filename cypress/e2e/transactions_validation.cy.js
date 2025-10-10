@@ -274,7 +274,7 @@ describe('Transactions Validation', () => {
         cy.get('[data-test^="transaction-reject-request-"]').click();
     });
 
-    it.only('Verify sending a greater amount than the available balance', () => {
+    it('Verify sending a greater amount than the available balance', () => {
         cy.visit('/signin');
         cy.wait(3000);
 
