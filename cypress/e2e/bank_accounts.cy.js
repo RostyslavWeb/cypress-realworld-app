@@ -23,7 +23,7 @@ function deleteAllBankAccounts() {
         cy.wait(3000);
 
         cy.log('Enter username and password');
-        cy.get('#username').type('Heath93');
+        cy.get('#username').type('Julia95');
         cy.get('#password').type('s3cret');
 
         cy.log('Click sign in');
@@ -59,7 +59,7 @@ function deleteAllBankAccounts() {
         cy.wait(3000);
 
         cy.log('Enter username and password');
-        cy.get('#username').type('Heath93');
+        cy.get('#username').type('Julia95');
         cy.get('#password').type('s3cret');
 
         cy.log('Click sign in');
@@ -86,7 +86,7 @@ function deleteAllBankAccounts() {
         cy.wait(3000);
 
         cy.log('Enter username and password');
-        cy.get('#username').type('Heath93');
+        cy.get('#username').type('Julia95');
         cy.get('#password').type('s3cret');
 
         cy.log('Click sign in');
@@ -125,7 +125,7 @@ function deleteAllBankAccounts() {
         cy.wait(3000);
 
         cy.log('Enter username and password');
-        cy.get('#username').type('Heath93');
+        cy.get('#username').type('Julia95');
         cy.get('#password').type('s3cret');
 
         cy.log('Click sign in');
@@ -145,7 +145,7 @@ function deleteAllBankAccounts() {
         cy.wait(3000);
 
         cy.log('Enter username and password');
-        cy.get('#username').type('Heath93');
+        cy.get('#username').type('Julia95');
         cy.get('#password').type('s3cret');
 
         cy.log('Click sign in');

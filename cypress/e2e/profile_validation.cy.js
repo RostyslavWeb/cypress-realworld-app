@@ -5,7 +5,7 @@ describe('Profile Validation', () => {
         cy.wait(3000);
 
         cy.log('Fill out the form');
-        cy.get('#username').type('Arvilla_Hegmann');
+        cy.get('#username').type('Julia95');
         cy.get('#password').type('s3cret');
 
         cy.log('Click sign in');
