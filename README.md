@@ -60,6 +60,21 @@ Backend: http://localhost:3001
 yarn cypress:open
 ```
 
+---
+
+## 📂 Test Structure
+
+The tests are organized in the `app/cypress/e2e` folder:
+
+app/cypress/e2e/
+
+├── api_tests.cy.js
+├── auth_validation.cy.js
+├── bank_accounts.cy.js
+├── notifications_validation.cy.js
+├── profile_validation.cy.js
+└── transactions_validation.cy.js
+
 #### Mac users with M-series chips will need to prepend `PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true`.
 
 ```shell
