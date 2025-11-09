@@ -133,7 +133,7 @@ describe('Notifications Validation', () => {
         cy.log('Verify notification is displayed');
         cy.get('[data-test="notifications-list"]')
             .find('li div')
-            .contains('Genoveva McClure liked a transaction.')
+            .contains('Bella Lorem liked a transaction.')
             .should('exist');
     });
 
@@ -152,7 +152,7 @@ describe('Notifications Validation', () => {
         cy.get('[data-test="nav-top-new-transaction"]').click();
 
         cy.log('Select Contact');
-        cy.get('[data-test="user-list-search-input"]').type('Genoveva');
+        cy.get('[data-test="user-list-search-input"]').type('Bella');
         cy.get('[data-test="users-list"] li').first().click();
 
         cy.log('Fill out form fields');
@@ -254,7 +254,7 @@ describe('Notifications Validation', () => {
         cy.log('Verify notification is displayed');
         cy.get('[data-test="notifications-list"]')
             .find('li div')
-            .contains('Genoveva McClure commented on a transaction.')
+            .contains('Bella Lorem commented on a transaction.')
             .should('exist');
     });
 
